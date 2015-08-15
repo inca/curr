@@ -1,6 +1,6 @@
 {
   "name": "curr",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Dead-simple currency formatter",
   "main": "src/index.js",
   "devDependencies": {
